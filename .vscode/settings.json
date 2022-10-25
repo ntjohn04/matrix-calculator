@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "string_view": "cpp",
+        "chrono": "cpp",
+        "iosfwd": "cpp"
+    },
+    "terminal.integrated.fastScrollSensitivity" :1,
+    "terminal.integrated.mouseWheelScrollSensitivity":0.3
+}
